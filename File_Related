@@ -1,1 +1,6 @@
 TTAP-UTAR/Time Table Arranging Program/Class/TokenParser/SlotParser.cs
+TTAP-UTAR/Time Table Arranging Program/Class/Slot.cs
+
+Load the sample html
+TTAP-UTAR/NUnit.Tests2/Test_SlotParser.cs
+-Helper.RawStringOfTestFile("CopiedTextFromSampleHTML.txt")
